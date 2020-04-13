@@ -1,0 +1,21 @@
+
+
+
+
+function musawwir(data,cb){
+console.log(" Musawwir Called ")
+cb(null,data)
+
+}
+
+
+
+function hassan(data,cb){
+    console.log(" Hassan Called ")
+    cb(null,data)
+    
+    }
+
+
+
+    
